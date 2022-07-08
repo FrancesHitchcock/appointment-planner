@@ -30,5 +30,5 @@ In addition, the appointments form renders a contact picker component to select 
 I successfully completed this project with no help and without referring to the sample solution code. The hints provided with the task descriptions were the only support. 
 
 ## Publication
-To view the deployed app on Netlify visit [https://willowy-begonia-7e3836.netlify.app/] (https://willowy-begonia-7e3836.netlify.app/)
+To view the deployed app on Netlify visit https://willowy-begonia-7e3836.netlify.app/
 
